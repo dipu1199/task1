@@ -135,7 +135,8 @@ p{
     text-align: left;
 }
 .update{
-    margin-top:200px ;
+    margin-top:400px ;
+    height: 50vh;
 }
 .email-box{
     width: 300px;    
@@ -175,15 +176,22 @@ p{
 }
 footer{
     text-align: center;
-    margin-top: 50px
+    margin-top: 0px
     color:white;
 }
 .idea{
-    margin-top: 200px
-    display:flex;
+    height: 70vh;
+    padding-top: 10%;
 }
-.slogan{
-    text-align: right;
+.slogan h1{
+    text-align: left;
+}
+.slogan p{
+    text-align: left;
+}
+.picture{
+    float: right;
+    margin-right: 10%;
+    padding-top: 0%;
 }
 
-}
